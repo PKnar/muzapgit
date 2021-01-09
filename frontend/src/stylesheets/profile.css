@@ -1,0 +1,14 @@
+.profile {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+.profile img {
+  width: 200px;
+  margin: 2rem;
+}
+
+.profile h1 {
+  color: white;
+  cursor: pointer;
+}
